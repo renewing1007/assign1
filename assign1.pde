@@ -1,4 +1,4 @@
-/* please implement your assign1 code in this file. */
+                                               /* please implement your assign1 code in this file. */
   PImage fighterImg;
   PImage treasureImg;
   PImage hpImg;
@@ -11,12 +11,12 @@ void setup () {
   size(640,480) ;  // must use this size.
   // your code
  
- fighterImg=loadImage("fighter.png");
- treasureImg=loadImage("treasure.png");
- hpImg=loadImage("hp.png");
- enemyImg=loadImage("enemy.png");
- bg1Img=loadImage("bg1.png");
- bg2Img=loadImage("bg2.png");
+ fighterImg=loadImage("img/fighter.png");
+ treasureImg=loadImage("img/treasure.png");
+ hpImg=loadImage("img/hp.png");
+ enemyImg=loadImage("img/enemy.png");
+ bg1Img=loadImage("img/bg1.png");
+ bg2Img=loadImage("img/bg2.png");
  x=floor(random(630));
  y=floor(random(20,480));
  x1=floor(random(185));
