@@ -1,4 +1,4 @@
-                                               /* please implement your assign1 code in this file. */
+                          /* please implement your assign1 code in this file. */
   PImage fighterImg;
   PImage treasureImg;
   PImage hpImg;
@@ -52,7 +52,5 @@ void draw() {
  
 
 }  
-
- 
   
   
